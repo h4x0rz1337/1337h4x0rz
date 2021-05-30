@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @1337r6
+- 👀 I’m interested in "C++,C#,Java"
+- 🌱 I’m currently learning everything
+- 📫 How to reach me "you can't" :=)

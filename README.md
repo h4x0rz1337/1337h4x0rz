@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @h4x0rz1337
-- 👀 I’m interested in "C++,C#,Java"
-- 🌱 I’m currently learning everything
-- 📫 How to reach me "you can't" :=)
+
